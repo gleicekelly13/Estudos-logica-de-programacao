@@ -1,1 +1,1 @@
-# Estudos-logica-de-programacao
+# Estudos lógica de programação
